@@ -34,7 +34,7 @@ The primary objective is to:
 - **Data source:** Internet
 - **Time period:**  2015-2017
 - **Data size:** hotel_bookings (119391, 33) 
-- [**Data set Link**] [If applicable]
+- [**Data set Link**](https://github.com/amanat-mahmud/hotel_management/blob/main/hotel_bookings.csv)
 
 ## 🔎 Key Findings
 1. Total stayed customers: 75,000
@@ -79,5 +79,5 @@ The primary objective is to:
 - Microsoft Power BI Desktop
 
 ## 📈 Dashboard
-- [Live Dasboard](https://app.powerbi.com/view?r=eyJrIjoiZjk4YmZhZGMtYzQyNC00NDZlLWFkNjktY2FkYmQ5OGQ1NGI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
-<img style="border-radius:25px;" src="https://github.com/amanat-mahmud/E-commerce_sales_analysis/blob/main/dashboard_ss.png">
+- [Live Dasboard](https://app.powerbi.com/view?r=eyJrIjoiNjY1OTFmY2MtZDAzZi00ZDI0LTgzZDYtY2ZhZTJmOGNhMzE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+<img style="border-radius:25px;" src="https://github.com/amanat-mahmud/hotel_management/blob/main/dashboard_ss.png">
