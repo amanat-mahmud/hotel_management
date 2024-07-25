@@ -1,4 +1,4 @@
-# 📊 Hotel Management Analytics
+# 📊 Hotel Management Analysis
 
 ## 📕 Table of Contents
 - [Problem Statement](#-problem-statement)
