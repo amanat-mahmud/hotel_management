@@ -7,6 +7,7 @@
 - [Dataset Overview](#-dataset-overview)
 - [Key Findings](#-key-findings)
 - [Recommendations](#-recommendations)
+- [Project Presentation](#-project-presentation)
 - [Project Learnings](#-project-learnings)
 - [Installation and Usage](#-installation-and-usage)
 
@@ -63,6 +64,10 @@ The primary objective is to:
 8. Reduce average waiting time to improve customer satisfaction upon arrival.
 9. Implement early booking discounts to encourage advance reservations.
 10. Conduct post-stay surveys to improve overall satisfaction and encourage return visits.
+
+## 📌 Project Presentation
+### Slides
+The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/hotel_management/blob/main/slide.pdf)
 
 ## 🧠 Project Learnings
 1. Data Loading and Transformations
